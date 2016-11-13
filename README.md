@@ -47,6 +47,7 @@ or
       --apiport        port to bind to for http api     [default: 9000]
       --redisHost      Redis host                       [default: "127.0.0.1"]
       --redisPort      Redis port                       [default: 6379]
+      --redisPass      Redis password                   [Optional]
       --redisDatabase  Redis database to select         [default: 0]
       --reaperFreq     Reaper frequency (ms)            [default: 2000]
       --debug          enabled debug logging
